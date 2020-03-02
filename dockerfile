@@ -55,6 +55,7 @@ RUN pip3 install --no-cache-dir git+https://github.com/waleedka/coco.git#subdire
 
 # Set up Mask_RCNN
 # RUN cd /root/Mask_RCNN && \
+#     wget https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5 && \
 #     python3 setup.py install
 
 
